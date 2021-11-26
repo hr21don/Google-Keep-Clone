@@ -26,4 +26,4 @@ Successfully delete both prevNotes(previous entries) where the user can type a n
 
 ## Accessing the Repo
 
-You can access the repo for this project here at https://jn4tu.csb.app/ .
+The example output can be found in the sandbox repo at https://jn4tu.csb.app/ .
