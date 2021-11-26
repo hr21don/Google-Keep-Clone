@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>NoteKeeper V1</h1>
+      <h1>Keeper V1</h1>
     </header>
   );
 }
