@@ -15,7 +15,7 @@ The example output for the app should look like this after you type in your desi
 
 ## Additional Functionality || Delete UseCase
 
-Keeper V1 offeres delete functionality to allow the user to remove a note from the app through the use of the 'delete button' as shown below.
+Keeper V1 offers delete functionality to allow the user to remove a note from the app through the use of the 'delete button' as shown below.
 
 ## Delete UseCase
 
