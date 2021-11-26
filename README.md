@@ -23,3 +23,7 @@ Successfully delete both prevNotes(previous entries) where the user can type a n
 
 <img width="426" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143617428-1599367f-334f-4dac-ab28-87510116865d.PNG">
 
+
+## Accessing the Repo
+
+You can access the repo for this project here at https://jn4tu.csb.app/ .
