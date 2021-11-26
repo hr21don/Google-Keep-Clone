@@ -1,14 +1,16 @@
 # React_NoteKeeperApp
 
-/******************************************** Hello, Friend! **********************************/
+```
+<h1> Hello, Friend! </h1>
+```
 
 ## Master Branch 
 
-VPart 1 of the Keeper App.
+Vist the master branch, to view Part 1 of the Keeper App.
 
 ## Tester Branch
 
-This branch contains part 2 of the Keeper App.
+Vist the Tester branch, to view part 2 of the Keeper App.
 
 
 
