@@ -1,8 +1,10 @@
 # React_NoteKeeperApp
 
+/******************************************** Hello, Friend! **********************************/
+
 ## Master Branch 
 
-Part 1 of the Keeper App.
+VPart 1 of the Keeper App.
 
 ## Tester Branch
 
