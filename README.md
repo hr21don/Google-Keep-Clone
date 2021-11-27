@@ -12,7 +12,7 @@ Vist the master branch, to view Part 1 of the Keeper App.
 
 Vist the Tester branch, to view part 2 of the Keeper App.
 
-## FinalText Branch
+## FinalTest Branch
 
 Vist the FinalTest Branch, to view the part 3 Complete version of the Keeper App.
 
