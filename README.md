@@ -19,7 +19,7 @@ Keeper V1 offers delete functionality to allow the user to remove a note from th
 
 ## Delete UseCase
 
-Successfully delete both prevNotes(previous entries) where the user can type a new note into the app as follows!
+Successfully deleted both prevNotes(previous entries) where the user can type a new note into the app as follows!
 
 <img width="426" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143617428-1599367f-334f-4dac-ab28-87510116865d.PNG">
 
