@@ -3,7 +3,7 @@
 
 ## Input
 
-Type your Input into the 'Title' and 'Take a note' fields as desired below. 
+Type your Input into the 'Title' and 'Take a note' fields shown below. 
 <img width="687" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143622426-6485aeaa-42fb-4e1f-b736-694ca92ae0a0.PNG">
 
 ## Output
