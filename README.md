@@ -9,7 +9,7 @@ Type your input into the 'Title' Field and 'Take a Note' Field as provided below
 
 ## Output
 
-The example output for the app should look like this after you type in your desired Input. || Get in touch if you have trouble launching the app!
+The example output for the app should display the users desired input as shown below! || Get in touch if you have trouble launching the app!
 
 <img width="427" alt="Capture" src="https://user-images.githubusercontent.com/91548582/143617151-3ee9d23a-d100-417a-a94a-17568b42f59c.PNG">
 
