@@ -1,6 +1,10 @@
 # React_NoteKeeperApp
 {React Development Journey PT 11}
 
+********************
+## Getting Started
+********************
+
 ## Input
 
 Type your Input into the 'Title' and 'Take a note' fields shown below. 
