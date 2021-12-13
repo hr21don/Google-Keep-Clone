@@ -5,7 +5,7 @@
 ## Getting Started
 ********************
 
-## Input
+## Enter your Input into the fields provided below
 
 Type your Input into the 'Title' and 'Take a note' fields shown below. 
 
