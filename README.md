@@ -4,9 +4,9 @@
 <h1> Hello, Friend! </h1>
 ```
 
-## Master Branch 
+## FirstDeploy Branch 
 
-Vist the master branch, to view Part 1 of the Keeper App.
+Vist the FirstDeploy branch, to view Part 1 of the Keeper App.
 
 ## Tester Branch
 
