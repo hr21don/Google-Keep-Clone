@@ -8,9 +8,9 @@
 
 Vist the FirstDeploy branch, to view Part 1 of the Keeper App.
 
-## Tester Branch
+## SecondDeploy Branch
 
-Vist the Tester branch, to view part 2 of the Keeper App.
+Vist the SecondDeploy branch, to view part 2 of the Keeper App.
 
 ## FinalDeploy Branch
 
